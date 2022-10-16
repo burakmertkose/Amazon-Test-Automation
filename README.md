@@ -26,7 +26,7 @@ By going to Amazon.com. Go to Menu > Computer > Storge Data category and go to U
 ![](https://i.ibb.co/18BPRSj/Screenshot-2.png)
 
 ### Click Computer
-![](https://i.ibb.co/rZj7hMN/Screenshot-3.png)
+![](https://i.ibb.co/xMkCbGd/Screenshot-3.png)
 
 ### Click Data Storge
 ![](https://i.ibb.co/Smr8TSD/Screenshot-4.png)
