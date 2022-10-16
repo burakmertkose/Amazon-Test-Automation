@@ -21,3 +21,5 @@ By going to Amazon.com. Go to Menu > Computer > Storge Data category and go to U
 -    Then The product price is verifying
 
 ![](https://i.ibb.co/wQrMQDX/Screenshot-1.png)
+
+![](https://i.ibb.co/18BPRSj/Screenshot-2.png)
