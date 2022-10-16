@@ -22,36 +22,36 @@ By going to Amazon.com. Go to Menu > Computer > Storge Data category and go to U
 
 
 
-*** Click All Category Menu
+### Click All Category Menu
 ![](https://i.ibb.co/18BPRSj/Screenshot-2.png)
 
-*** Click Computer
+### Click Computer
 ![](https://i.ibb.co/rZj7hMN/Screenshot-3.png)
 
-*** Click Data Storge
+### Click Data Storge
 ![](https://i.ibb.co/Smr8TSD/Screenshot-4.png)
 
-*** Click USB Flash Drives from the left menu
+### Click USB Flash Drives from the left menu
 ![](https://i.ibb.co/jG8LHTm/Screenshot-5.png)
 
-*** Capacity 64GB is selected in the filter section
+### Capacity 64GB is selected in the filter section
 ![](https://i.ibb.co/BwHytS4/Screenshot-6.png)
 
 
-*** Seller selecting as Amazon.com
+### Seller selecting as Amazon.com
 ![](https://i.ibb.co/YkjN6wT/Screenshot-7.png)
 
 
-*** If the product is under 10 dollars, it is entered and added to the cart
+### If the product is under 10 dollars, it is entered and added to the cart
 ![](https://i.ibb.co/mTrSCQC/Screenshot-8.png)
 ![](https://i.ibb.co/18QpK6d/Screenshot-9.png)
 
 
-*** By going to cart and The product price is verifying
+### By going to cart and The product price is verifying
 ![](https://i.ibb.co/CvLnp3S/Screenshot-10.png)
 
 
-*** Output Scenario
+### Output Scenario
 ![](https://i.ibb.co/LYphqSD/Screenshot-11.png)
 
 
